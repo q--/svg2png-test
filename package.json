@@ -1,0 +1,31 @@
+{
+  "author": "q-- <io7io@ya.ru>",
+  "name": "svg2png-test",
+  "description": "test for svg2png-many",
+  "homepage": "https://github.com/q--/svg2png-test",
+  "keywords": [
+    "phantom",
+    "phantomjs",
+    "svg",
+    "png",
+    "converter",
+    "fast",
+	"test"
+  ],
+  "version": "0.0.1",
+  "license": "ISC",
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/q--/svg2png-test.git"
+	},
+  "engines": {
+    "node": ">=0.12"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "svg2png-many": "0.0.6"
+  }
+}
